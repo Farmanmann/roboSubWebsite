@@ -22,3 +22,6 @@
 -  List of officers
 -  Contact information
 
+##  Website Design
+ - Using figma to come up with a design
+
