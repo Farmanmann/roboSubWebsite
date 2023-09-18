@@ -17,7 +17,12 @@
 - Float
   - ^^^
   - Link to MATE ROV float guidelines
-### About Us
+ 
+### Sponsors
+
+- Sponsor name and logo
+
+### About Us (Footer on every page)
 -  What the org is
 -  List of officers
 -  Contact information
